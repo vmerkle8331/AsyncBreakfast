@@ -1,0 +1,14 @@
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\bin\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.exe
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\bin\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.deps.json
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\bin\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.runtimeconfig.json
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\bin\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\bin\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.dll
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\bin\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.pdb
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\obj\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.csproj.AssemblyReference.cache
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\obj\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\obj\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\obj\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.AssemblyInfo.cs
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\obj\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\obj\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.dll
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\obj\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.pdb
+C:\Users\vickm\source\repos\AsyncBreakfast_Merkle\AsyncBreakfast_Merkle\obj\Debug\netcoreapp3.1\AsyncBreakfast_Merkle.genruntimeconfig.cache
